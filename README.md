@@ -10,4 +10,4 @@ This project utilizes Long Short-Term Memory (LSTM) neural networks to predict s
 - Preprocesses the data and adds technical indicators like RSI.
 - Utilizes LSTM architecture for sequential data prediction.
 - Provides visualization of actual vs. predicted stock prices using `matplotlib`.
-- Mean Absolute Error - $2
+- Mean Absolute Error ~ $1.5
